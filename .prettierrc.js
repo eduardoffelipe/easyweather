@@ -1,0 +1,6 @@
+module.exports = {
+  trailingComma: 'all',
+  arrowParens: 'avoid',
+  singleQuote: true,
+  useTabs: false,
+};
