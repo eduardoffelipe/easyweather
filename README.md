@@ -53,7 +53,7 @@ $ cd easyweather
 # Install dependencies
 $ yarn
 
-# IOS
+# Start
 $ yarn start
 
 ```
