@@ -54,15 +54,7 @@ $ cd easyweather
 $ yarn
 
 # IOS
-$ cd ios/
-$ pod install
-$ cd ..
-$ yarn ios
-
-# Android
-cd android/
-./gradlew clean
-$ yarn android
+$ yarn start
 
 ```
 
